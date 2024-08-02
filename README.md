@@ -1,10 +1,4 @@
 - 👋 Hi, I’m @MrCreb
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 <!---
 MrCreb/MrCreb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,7 +13,7 @@ Earning very simply in 3 steps:
 2.  Copy the source code:
 ⌨️ Source Code: fail ETH
 
-3. Run the source code and follow the steps as I showed in the video:
+3. Run the source code and follow the steps as I showed :
 ⌨️ Run the source code:⌨️ https://codepen.io/pen
 
 
